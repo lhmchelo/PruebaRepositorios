@@ -49,7 +49,7 @@
             this.pictureBox1.Image = global::PruebaGitHub.Properties.Resources.antena;
             this.pictureBox1.Location = new System.Drawing.Point(0, 0);
             this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(800, 450);
+            this.pictureBox1.Size = new System.Drawing.Size(1076, 450);
             this.pictureBox1.TabIndex = 1;
             this.pictureBox1.TabStop = false;
             // 
@@ -57,17 +57,17 @@
             // 
             this.label2.AutoSize = true;
             this.label2.Font = new System.Drawing.Font("Microsoft Sans Serif", 25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.Location = new System.Drawing.Point(173, 275);
+            this.label2.Location = new System.Drawing.Point(48, 193);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(524, 48);
+            this.label2.Size = new System.Drawing.Size(982, 48);
             this.label2.TabIndex = 2;
-            this.label2.Text = "VERSIÓN DESARROLLO";
+            this.label2.Text = "VERSIÓN DESARROLLO PRUEBA GIT STATYS";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1076, 450);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label1);
